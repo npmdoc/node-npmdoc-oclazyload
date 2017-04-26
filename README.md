@@ -1,4 +1,7 @@
-# api documentation for  [oclazyload (v1.1.0)](https://github.com/ocombe/ocLazyLoad)  [![npm package](https://img.shields.io/npm/v/npmdoc-oclazyload.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-oclazyload) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-oclazyload.svg)](https://travis-ci.org/npmdoc/node-npmdoc-oclazyload)
+# npmdoc-oclazyload
+
+#### basic api documentation for  [oclazyload (v1.1.0)](https://github.com/ocombe/ocLazyLoad)  [![npm package](https://img.shields.io/npm/v/npmdoc-oclazyload.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-oclazyload) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-oclazyload.svg)](https://travis-ci.org/npmdoc/node-npmdoc-oclazyload)
+
 #### Load modules on demand (lazy load) with angularJS
 
 [![NPM](https://nodei.co/npm/oclazyload.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/oclazyload)
@@ -89,7 +92,8 @@
         "test": "karma start karma.conf.js",
         "test-dev": "karma start karma.conf.js --single-run=false"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
